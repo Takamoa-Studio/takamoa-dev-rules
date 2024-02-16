@@ -1,5 +1,3 @@
----
-
 # File Naming Convention for WordPress Development
 
 This document outlines the file naming convention adopted by Takamoa for the development of WordPress themes and plugins, ensuring consistency and ease of maintenance across our projects.
@@ -50,5 +48,3 @@ Files are named based on their type and function in the project. The general for
 ## Conclusion
 
 This naming convention is implemented to ensure a clear and maintainable structure for our WordPress projects. It should be followed by all developers contributing to the project. For any exceptions or proposed changes, please consult the development team.
-
----
